@@ -1,0 +1,15 @@
+praw
+pushshift.py
+requests
+beautifulsoup4
+sentence-transformers
+hdbscan
+transformers
+torch
+moviepy
+openai-whisper
+ultralytics
+pandas
+geopandas
+plotly
+vaderSentiment
